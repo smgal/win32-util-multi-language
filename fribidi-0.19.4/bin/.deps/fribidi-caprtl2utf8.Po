@@ -1,0 +1,129 @@
+fribidi-caprtl2utf8.o: fribidi-caprtl2utf8.c /usr/include/stdio.h \
+ /usr/include/features.h /usr/include/i386-linux-gnu/bits/predefs.h \
+ /usr/include/i386-linux-gnu/sys/cdefs.h \
+ /usr/include/i386-linux-gnu/bits/wordsize.h \
+ /usr/include/i386-linux-gnu/gnu/stubs.h \
+ /usr/include/i386-linux-gnu/gnu/stubs-32.h \
+ /usr/lib/gcc/i686-linux-gnu/4.6/include/stddef.h \
+ /usr/include/i386-linux-gnu/bits/types.h \
+ /usr/include/i386-linux-gnu/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/i686-linux-gnu/4.6/include/stdarg.h \
+ /usr/include/i386-linux-gnu/bits/stdio_lim.h \
+ /usr/include/i386-linux-gnu/bits/sys_errlist.h \
+ /usr/include/i386-linux-gnu/bits/stdio.h \
+ /usr/include/i386-linux-gnu/bits/stdio2.h /usr/include/string.h \
+ /usr/include/i386-linux-gnu/bits/string.h \
+ /usr/include/i386-linux-gnu/bits/string2.h /usr/include/endian.h \
+ /usr/include/i386-linux-gnu/bits/endian.h \
+ /usr/include/i386-linux-gnu/bits/string3.h ../lib/fribidi.h \
+ ../lib/fribidi-common.h ../lib/fribidi-config.h ../lib/fribidi-unicode.h \
+ ../lib/fribidi-types.h ../lib/fribidi-begindecls.h \
+ ../lib/fribidi-enddecls.h ../lib/fribidi-unicode-version.h \
+ ../lib/fribidi-flags.h ../lib/fribidi-bidi-types.h \
+ ../lib/fribidi-bidi-types-list.h ../lib/fribidi-bidi.h \
+ ../lib/fribidi-joining-types.h ../lib/fribidi-joining-types-list.h \
+ ../lib/fribidi-joining.h ../lib/fribidi-mirroring.h \
+ ../lib/fribidi-arabic.h ../lib/fribidi-shape.h \
+ ../charset/fribidi-char-sets.h ../lib/fribidi-common.h \
+ ../lib/fribidi-types.h ../lib/fribidi-begindecls.h \
+ ../charset/fribidi-char-sets-list.h ../lib/fribidi-enddecls.h \
+ ../lib/fribidi-deprecated.h
+
+/usr/include/stdio.h:
+
+/usr/include/features.h:
+
+/usr/include/i386-linux-gnu/bits/predefs.h:
+
+/usr/include/i386-linux-gnu/sys/cdefs.h:
+
+/usr/include/i386-linux-gnu/bits/wordsize.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs-32.h:
+
+/usr/lib/gcc/i686-linux-gnu/4.6/include/stddef.h:
+
+/usr/include/i386-linux-gnu/bits/types.h:
+
+/usr/include/i386-linux-gnu/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/i686-linux-gnu/4.6/include/stdarg.h:
+
+/usr/include/i386-linux-gnu/bits/stdio_lim.h:
+
+/usr/include/i386-linux-gnu/bits/sys_errlist.h:
+
+/usr/include/i386-linux-gnu/bits/stdio.h:
+
+/usr/include/i386-linux-gnu/bits/stdio2.h:
+
+/usr/include/string.h:
+
+/usr/include/i386-linux-gnu/bits/string.h:
+
+/usr/include/i386-linux-gnu/bits/string2.h:
+
+/usr/include/endian.h:
+
+/usr/include/i386-linux-gnu/bits/endian.h:
+
+/usr/include/i386-linux-gnu/bits/string3.h:
+
+../lib/fribidi.h:
+
+../lib/fribidi-common.h:
+
+../lib/fribidi-config.h:
+
+../lib/fribidi-unicode.h:
+
+../lib/fribidi-types.h:
+
+../lib/fribidi-begindecls.h:
+
+../lib/fribidi-enddecls.h:
+
+../lib/fribidi-unicode-version.h:
+
+../lib/fribidi-flags.h:
+
+../lib/fribidi-bidi-types.h:
+
+../lib/fribidi-bidi-types-list.h:
+
+../lib/fribidi-bidi.h:
+
+../lib/fribidi-joining-types.h:
+
+../lib/fribidi-joining-types-list.h:
+
+../lib/fribidi-joining.h:
+
+../lib/fribidi-mirroring.h:
+
+../lib/fribidi-arabic.h:
+
+../lib/fribidi-shape.h:
+
+../charset/fribidi-char-sets.h:
+
+../lib/fribidi-common.h:
+
+../lib/fribidi-types.h:
+
+../lib/fribidi-begindecls.h:
+
+../charset/fribidi-char-sets-list.h:
+
+../lib/fribidi-enddecls.h:
+
+../lib/fribidi-deprecated.h:
